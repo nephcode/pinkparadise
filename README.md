@@ -1,47 +1,42 @@
-![Cover](https://github.com/nephcode/underconstruction-react/blob/main/.github/images/githubReadmeHeader.png)
+![Cover](https://github.com/pinkparadise/blob/main/.github/images/githubReadmeHeader.png)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
-# UNDERCONSTRUCTION REACT
+# PINK PARADISE
 
-Template first init project with `vite``react`on `bun runtime`
+The Pink Paradise Reloading project. Fullstack
 
 ## PROJECT DELIVERIES
 
-| WHAT FOR               | WHEN         |
-| :--------------------- | ------------ |
-| Deadline MVP           | `18-03-2024` |
-| Deadline CERTIFICATION | `15-04-2024` |
-
+| WHAT FOR      | WHEN         |
+| :------------ | ------------ |
+| Deadline MVP  | `05-12-2024` |
+| Deadline PROD | `21-12-2024` |
 
 ## INFORMATIONS
 
-| WHERE     | URL                                    |
-| :-------- | -------------------------------------- |
-| Discord   | [#](#)                                 |
-| Instagram | [https://www.instagram.com/](#)        |
-| www       | [#underconstution](#underconstruction) |
+| WHERE      | URL                                                                |
+| :--------- | ------------------------------------------------------------------ |
+| Production | [www.pinkparadise.fr](https://www.pinkparadise.fr)                 |
+| Instagram  | [@pinkparadiseparis](https://instagram.com/pinkparadiseparis)      |
+| Staging    | [pinkparadise.youcodeuse.com](https://pinkparadise.youcodeuse.com) |
 
-| WHO IS   | FOR             |      COMPANY      | CONTACT | DISCORD |
-| :------- | --------------- | :---------------: | ------- | :-----: |
-| Nephelim | Head of concept | Underconstruction | #       |   YES   |
+| WHO IS             | FOR             |    COMPANY    | CONTACT | DISCORD |
+| :----------------- | --------------- | :-----------: | ------- | :-----: |
+| Nephelim           | Head of concept | Illuminateam  | #       |    #    |
+| Neah               | Fullstack Dev   | Illuminateam  | #       |    #    |
+| Muratt Atik        | Client CEO      | Pink Paradise | #       |    #    |
+| Joanna Yelena Atik | Client COO      | Pink Paradise | #       |    #    |
 
 ## TECHNO
 
-| TECHNO   | SPEC   |
-| :------- | ------ |
-| FRONTEND | `SASS` |
-| BACKEND |`BUN`|
-| BUNDLE |`VITE`|
+| TECHNO   | SPEC                        |
+| :------- | --------------------------- |
+| FRONTEND | `REACT` `STYLED-COMPONENTS` |
+| BACKEND  | `BUN` `EXPRESS`             |
+| CRM      | `A DEFINIR` 🤓              |
+| BUNDLE   | `VITE` `VITEST`             |
 
 ## RUNNING THE APPS
 
-Create branch
-
-```
-git branch dev
-git branch release
-
-```
-
-![Cover](https://github.com/nephcode/underconstruction-react/blob/main/.github/images/githubReadmeFooter.png)
+![Cover](https://github.com/nephcode/pinkparadise/blob/main/.github/images/githubReadmeFooter.png)
