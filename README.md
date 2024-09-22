@@ -1,4 +1,4 @@
-![Cover](https://github.com/pinkparadise/blob/main/.github/images/githubReadmeHeader.png)
+![Cover](https://github.com/nephocode/pinkparadise/blob/main/.github/images/githubReadmeHeader.png)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
